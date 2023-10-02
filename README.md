@@ -1,2 +1,2 @@
 # cmake_learning
-learning some about cmake
+learn something about cmake
